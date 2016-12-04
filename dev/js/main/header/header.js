@@ -55,7 +55,7 @@ jQuery(function($) {
         }
     });
 
-    $(window).on('orientationchange',function() {
+    window.matchMedia('(orientation: portrait)').addListener(function() {
         cleanup();
     });
 
@@ -79,12 +79,11 @@ jQuery(function($) {
 
     if (navbar.length) {
         var offsetTop = navbar.offset().top;
-        $(window).on('orientationchange',function() {
-            if ($(window).width() > 992 && touchSupport) {
+        window.matchMedia('(orientation: portrait)').addListener(function() {
+            if ($(window).width() > 992) {
                 var navbarPos = navbar.css('position');
                 offsetTop = $('header').height() - (navbarPos === 'fixed' ? 0 : navbar.outerHeight());
-            }
-        });
+            }});
         $(window).on('load scroll', function() {
             var scrollPos = $(window).scrollTop();
             if (scrollPos > offsetTop) {
