@@ -1,4 +1,10 @@
 
+#### v1.1.0 `February 20, 2017`
+- **[FEATURE]** add styles for new content element Hero Image (#41) ([92eb484](https://github.com/t3kit/felayout_bluemountain/commit/92eb484))
+- **[FIX]** main menu dropdown columns , fix arrow position (#42) ([483aae6](https://github.com/t3kit/felayout_bluemountain/commit/483aae6))
+
+***
+
 #### v1.0.0 `January 24, 2017`
 - **[FIX]** remove css lint grunt check, fix CI tests ([055ff5f](https://github.com/t3kit/felayout_bluemountain/commit/055ff5f))
 - **[BUGFIX]** fix aligning of news pagination and news tags while text is short ([931b94f](https://github.com/t3kit/felayout_bluemountain/commit/931b94f))
