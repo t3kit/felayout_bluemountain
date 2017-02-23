@@ -10,14 +10,14 @@
 				"attrs": [],
 				"isMulticolor": false,
 				"tags": [
-					"folder-o"
+					"folder"
 				],
 				"defaultCode": 61716,
 				"grid": 14
 			},
 			"attrs": [],
 			"properties": {
-				"name": "folder-o",
+				"name": "folder",
 				"id": 247,
 				"order": 447,
 				"prevSize": 32,
@@ -36,14 +36,14 @@
 				"attrs": [],
 				"isMulticolor": false,
 				"tags": [
-					"folder-open-o"
+					"folder-open"
 				],
 				"defaultCode": 61717,
 				"grid": 14
 			},
 			"attrs": [],
 			"properties": {
-				"name": "folder-open-o",
+				"name": "folder-open",
 				"id": 248,
 				"order": 448,
 				"prevSize": 32,
@@ -62,14 +62,14 @@
 				"attrs": [],
 				"isMulticolor": false,
 				"tags": [
-					"google-plus"
+					"googleplus"
 				],
 				"defaultCode": 61653,
 				"grid": 14
 			},
 			"attrs": [],
 			"properties": {
-				"name": "google-plus4",
+				"name": "googleplus4",
 				"id": 0,
 				"order": 426,
 				"prevSize": 32,
@@ -88,14 +88,14 @@
 				"attrs": [],
 				"isMulticolor": false,
 				"tags": [
-					"pinterest-p"
+					"pinterest"
 				],
 				"defaultCode": 62001,
 				"grid": 14
 			},
 			"attrs": [],
 			"properties": {
-				"name": "pinterest-p",
+				"name": "pinterest",
 				"id": 1,
 				"order": 399,
 				"prevSize": 32,
@@ -113,7 +113,7 @@
 				"attrs": [],
 				"isMulticolor": false,
 				"tags": [
-					"folder_open"
+					"folder"
 				],
 				"defaultCode": 58056,
 				"grid": 24
@@ -121,11 +121,11 @@
 			"attrs": [],
 			"properties": {
 				"order": 449,
-				"ligatures": "folder_open",
+				"ligatures": "folder",
 				"id": 316,
 				"prevSize": 32,
 				"code": 58056,
-				"name": "folder_open"
+				"name": "folder3"
 			},
 			"setIdx": 8,
 			"setId": 9,
@@ -351,7 +351,9 @@
 				],
 				"isMulticolor": false,
 				"tags": [
-					"home"
+					"house",
+					"home",
+					"building"
 				],
 				"defaultCode": 58014,
 				"grid": 24
@@ -364,8 +366,8 @@
 				"id": 7,
 				"prevSize": 32,
 				"code": 58014,
-				"name": "home2",
-				"ligatures": "home"
+				"name": "house",
+				"ligatures": ""
 			},
 			"setIdx": 14,
 			"setId": 3,
@@ -479,7 +481,7 @@
 				"attrs": [],
 				"isMulticolor": false,
 				"tags": [
-					"book"
+					"books"
 				],
 				"grid": 0
 			},
@@ -489,7 +491,7 @@
 				"id": 3,
 				"prevSize": 32,
 				"code": 59659,
-				"name": "book"
+				"name": "books"
 			},
 			"setIdx": 13,
 			"setId": 4,
@@ -527,7 +529,12 @@
 				"attrs": [],
 				"isMulticolor": false,
 				"tags": [
-					"bubble"
+					"comment",
+					"bubble",
+					"chat",
+					"talk",
+					"discussion",
+					"conversation"
 				],
 				"grid": 0
 			},
@@ -537,7 +544,7 @@
 				"id": 5,
 				"prevSize": 32,
 				"code": 59661,
-				"name": "bubble"
+				"name": "comment"
 			},
 			"setIdx": 13,
 			"setId": 4,
@@ -672,7 +679,7 @@
 				"attrs": [],
 				"isMulticolor": false,
 				"tags": [
-					"camera"
+					"photo_camera"
 				],
 				"grid": 0
 			},
@@ -682,7 +689,7 @@
 				"id": 10,
 				"prevSize": 32,
 				"code": 59667,
-				"name": "camera"
+				"name": "photo_camera"
 			},
 			"setIdx": 13,
 			"setId": 4,
@@ -1167,7 +1174,12 @@
 				"attrs": [],
 				"isMulticolor": false,
 				"tags": [
-					"envelope"
+					"mail",
+					"email",
+					"message",
+					"letter",
+					"envelope",
+					"contact"
 				],
 				"grid": 0
 			},
@@ -1177,7 +1189,7 @@
 				"id": 30,
 				"prevSize": 32,
 				"code": 59700,
-				"name": "envelope"
+				"name": "mail3"
 			},
 			"setIdx": 13,
 			"setId": 4,
@@ -1743,7 +1755,7 @@
 				"attrs": [],
 				"isMulticolor": false,
 				"tags": [
-					"paperclip"
+					"attach_file"
 				],
 				"grid": 0
 			},
@@ -1753,7 +1765,8 @@
 				"id": 53,
 				"prevSize": 32,
 				"code": 59728,
-				"name": "paperclip"
+				"name": "attach_file",
+				"ligatures": "attach_file"
 			},
 			"setIdx": 13,
 			"setId": 4,
@@ -2117,7 +2130,7 @@
 				"attrs": [],
 				"isMulticolor": false,
 				"tags": [
-					"sync"
+					"loop"
 				],
 				"grid": 0
 			},
@@ -2127,7 +2140,8 @@
 				"id": 68,
 				"prevSize": 32,
 				"code": 59745,
-				"name": "sync"
+				"name": "loop",
+				"ligatures": "loop"
 			},
 			"setIdx": 13,
 			"setId": 4,
@@ -2178,7 +2192,7 @@
 				"id": 70,
 				"prevSize": 32,
 				"code": 59747,
-				"name": "tag2"
+				"name": "tag"
 			},
 			"setIdx": 13,
 			"setId": 4,
@@ -2695,7 +2709,7 @@
 				"order": 304,
 				"prevSize": 20,
 				"code": 58994,
-				"name": "arrow-left22",
+				"name": "arrow-left2",
 				"ligatures": ""
 			},
 			"setIdx": 15,
@@ -2722,7 +2736,7 @@
 				"order": 303,
 				"prevSize": 20,
 				"code": 58995,
-				"name": "arrow-down22",
+				"name": "arrow-down2",
 				"ligatures": ""
 			},
 			"setIdx": 15,
@@ -2749,7 +2763,7 @@
 				"order": 302,
 				"prevSize": 20,
 				"code": 58996,
-				"name": "arrow-up22",
+				"name": "arrow-up2",
 				"ligatures": ""
 			},
 			"setIdx": 15,
@@ -3187,7 +3201,7 @@
 				"attrs": [],
 				"isMulticolor": false,
 				"tags": [
-					"google-plus",
+					"googleplus",
 					"brand",
 					"social"
 				],
@@ -3196,8 +3210,8 @@
 			},
 			"attrs": [],
 			"properties": {
-				"ligatures": "google-plus3, brand7",
-				"name": "google-plus3",
+				"ligatures": "googleplus3, brand7",
+				"name": "googleplus3",
 				"id": 1,
 				"order": 2,
 				"prevSize": 32,
@@ -3255,7 +3269,7 @@
 			"attrs": [],
 			"properties": {
 				"ligatures": "instagram, brand12",
-				"name": "instagram2",
+				"name": "instagram",
 				"id": 3,
 				"order": 394,
 				"prevSize": 32,
@@ -3312,7 +3326,7 @@
 			"attrs": [],
 			"properties": {
 				"ligatures": "youtube, brand21",
-				"name": "youtube2",
+				"name": "youtube",
 				"id": 5,
 				"order": 397,
 				"prevSize": 32,
@@ -3340,7 +3354,7 @@
 			"attrs": [],
 			"properties": {
 				"ligatures": "vimeo, brand24",
-				"name": "vimeo3",
+				"name": "vimeo",
 				"id": 6,
 				"order": 396,
 				"prevSize": 32,
@@ -3370,7 +3384,7 @@
 			"attrs": [],
 			"properties": {
 				"ligatures": "linkedin2, brand65",
-				"name": "linkedin22",
+				"name": "linkedin2",
 				"id": 7,
 				"order": 386,
 				"prevSize": 32,
@@ -3397,7 +3411,7 @@
 			},
 			"attrs": [],
 			"properties": {
-				"name": "pinterest3",
+				"name": "pinterest2",
 				"ligatures": "pinterest, brand72",
 				"id": 8,
 				"order": 3,
