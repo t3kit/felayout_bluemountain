@@ -123,6 +123,12 @@ jQuery(function($) {
                 $('body').removeClass('main-navigation-fixed');
             }
         });
+        var mql = window.matchMedia("(orientation: portrait)");
+        mql.addListener(function(m) {
+            setTimeout(function(){
+                offsetTop = navbar.offset().top;
+            }, 300);
+        });
     }
 });
 
