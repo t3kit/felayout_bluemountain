@@ -10,6 +10,8 @@
 @import 'main/contentElements/sliderContainer.js';
 @import 'main/contentElements/imageTextLink.js';
 
+@import 'main/typicalContentElements/textAndMedia.js';
+
 // plugins
 @import 'main/plugins/news/newsCarousel.js';
 @import 'main/plugins/news/news.js';
